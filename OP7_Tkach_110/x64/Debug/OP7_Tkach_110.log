@@ -1,0 +1,4 @@
+﻿  OP7_Tkach_110.cpp
+D:\Программы VS\OP7_Tkach_110\OP7_Tkach_110.cpp(20,20): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+D:\Программы VS\OP7_Tkach_110\OP7_Tkach_110.cpp(22,20): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  OP7_Tkach_110.vcxproj -> D:\Программы VS\OP7_Tkach_110\x64\Debug\OP7_Tkach_110.exe
